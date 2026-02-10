@@ -2,5 +2,9 @@
   {"batch_id": "L-001", "beer_style": "IPA", "status": "fermenting", "volume_liters": 500},
   {"batch_id": "L-002", "beer_style": "Lager", "status": "conditioning", "volume_liters": 300},
   {"batch_id": "L-003", "beer_style": "Stout", "status": "fermenting", "volume_liters": 450},
-  {"batch_id": "L-004", "beer_style": "IPA", "status": "packaging", "volume_liters": 200}
+  {"batch_id": "L-004", "beer_style": "Blonde", "status": "packaging", "volume_liters": 200},
+  {"batch_id": "L-005", "beer_style": "IPA", "status": "conditioning", "volume_liters": 350},
+  {"batch_id": "L-006", "beer_style": "Lager", "status": "fermenting", "volume_liters": 400},
+  {"batch_id": "L-007", "beer_style": "Stout", "status": "completed", "volume_liters": 500},
+  {"batch_id": "L-008", "beer_style": "Blonde", "status": "fermenting", "volume_liters": 380}
 ]
